@@ -1,3 +1,3 @@
 # Battleship
 ### My final project for UPenn's CIS 1200 Course
-The Popular Game Battleship written in Java
+To run the game, under src/main/java/org.cis1200, run 'Game.main()'
