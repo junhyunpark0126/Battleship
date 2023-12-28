@@ -1,0 +1,23 @@
+HIGH SCORE : 0
+Score : 5
+Missiles Left : 6
+Ships Remaining : 3
+n n n x s s s n 
+n n n n n s s s 
+n x o o o x n n 
+n n n x x n n n 
+n n n n n x n n 
+n n n n n n n n 
+n n n o o s n n 
+n n n n n n n n 
+Ship Coordinates
+6 3 6 4 6 5
+0 4 0 5 0 6
+1 5 1 6 1 7
+2 2 2 3 2 4
+Miscellaneous
+0
+0
+0
+1
+Score History: 
